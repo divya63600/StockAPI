@@ -67,9 +67,7 @@ The project is organized as a typical Java API backend. Main components may incl
 
 Contributions are welcome! Fork the repository, create a new branch, and submit a pull request.
 
-## License
 
-*No license file detected. Please add one if you intend to open-source this project.*
 
 ## Maintainer
 
